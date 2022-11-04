@@ -41,7 +41,7 @@ function EachPlayer() {
           <h2>{player.name}</h2>
           <h3>{player.position}</h3>
           goals scored: {player.goals}
-          goals assisted: {player.assists}
+          goals assisted by player: {player.assists}
         </div>
       )
   );
