@@ -7,7 +7,6 @@ function Navbar() {
       <Link to="/">Teams</Link>
       <Link to="/team-stats">Team Stats</Link>
       <Link to="/player-stats">Player Stats</Link>
-      <Link to="/teams/:id">Each Team</Link>
     </div>
   );
 }
