@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
 function PlayerStats() {
-  return (
-    <div>PlayerStats</div>
-  )
+  return <div>Player Statistics</div>;
 }
 
-export default PlayerStats
+export default PlayerStats;
